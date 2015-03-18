@@ -13,7 +13,7 @@ Provide a rapid prototyping environment based on the Shelter pattern library tha
 
 Once the master CSS/SCSS has been written and implemented into a style guide, this file will be loaded into CodePen or hosted by us and linked to by individual Pens.
 
-The CSS for each HTML module will exist as mixins which can be applied which, when applied to HTML elements,  will propagate styles through the element and it's children. 
+The CSS for each HTML module will exist as mixins which, when applied to HTML elements, will propagate styles through the element and it's children. 
 
 Designers will be able to rapidly iterate on modules that have been predefined and agreed upon by the team.
 
@@ -41,7 +41,7 @@ This system also has the benefit of being fully upgradable in line with our styl
 
 ####Susy built in
 
-CodePen has support for Susy which is potentially going to be our chosen grid system, or if we go with something like Bootstrap/Foundation, it can be linked to in the same way as our base stylesheet.
+CodePen has built in support for Susy which is potentially going to be our chosen grid system, or if we go with something like Bootstrap/Foundation, it can be linked to in the same way as our base stylesheet.
 
 ####HTML templating
 
